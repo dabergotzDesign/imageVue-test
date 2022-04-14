@@ -1,0 +1,5 @@
+[
+    { "id": 1,  "icon": "../assets/imgs/skillTree_icon_html.png", "name":"HTML", "alt":"html icon" },
+    { "id": 2,  "icon": "../assets/imgs/skillTree_icon_css.png", "name":"CSS", "alt":"css icon" },
+    { "id": 3,  "icon": "../assets/imgs/skillTree_icon_javascript.png", "name":"Javascript", "alt":"javascript icon" }   
+  ]
